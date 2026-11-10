@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notification_icon_style_entries">
+        <item>Element (default)</item>
+        <item>PCP Chart (filled)</item>
+        <item>PCP Chart (outline)</item>
+    </string-array>
+    <string-array name="notification_icon_style_values">
+        <item>element</item>
+        <item>chart_filled</item>
+        <item>chart_outline</item>
+    </string-array>
+
+    <string-array name="todo_button_placement_entries">
+        <item>Beside Create Room button</item>
+        <item>Advanced section checkbox</item>
+    </string-array>
+    <string-array name="todo_button_placement_values">
+        <item>beside</item>
+        <item>advanced</item>
+    </string-array>
+
+    <string-array name="todo_voice_button_preset_entries">
+        <item>Split vertical (AI top, room bottom)</item>
+        <item>Side by side</item>
+        <item>Floating above chat</item>
+    </string-array>
+    <string-array name="todo_voice_button_preset_values">
+        <item>vertical_split</item>
+        <item>horizontal_side</item>
+        <item>floating</item>
+    </string-array>
+</resources>
